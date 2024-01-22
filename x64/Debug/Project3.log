@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\USER\Downloads\Opengl\Project3\main.cpp(36,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\main.cpp(37,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\main.cpp(38,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\main.cpp(47,35): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\main.cpp(48,35): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\main.cpp(50,37): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\main.cpp(51,37): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\main.cpp(53,37): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\main.cpp(54,37): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\main.cpp(58,34): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\main.cpp(68,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\USER\Downloads\Opengl\Project3\main.cpp(69,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Project3.vcxproj -> C:\Users\USER\Downloads\Opengl\Project3\x64\Debug\Project3.exe
